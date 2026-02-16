@@ -1,0 +1,2 @@
+# This directory will contain configuration-related classes
+# Such as strongly-typed configuration models using IOptions<T>
