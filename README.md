@@ -8,4 +8,12 @@
 /src/ProductService : dotnet core backend API
 ```
 
+### Flow
 
+```PlainText
+[React App] ├──> [API Gateway (Ocelot)] ──> [Internal Token] ──> [Product Service APIs]
+```
+
+### Required
+
+Auth0
